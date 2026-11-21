@@ -1,0 +1,12 @@
+Customer: hi
+Customer: what is the price of chocolate cake?
+Customer: is mango jam in stock?
+Customer: how much is delivery to Lahore?
+Customer: what are your timings?
+Customer: how can I pay?
+Customer: I want to order cupcakes
+Customer: 2
+Customer: Ayesha
+Customer: Lahore
+Customer: thanks
+Customer: do you sell cars?

@@ -1,0 +1,93 @@
+{
+  "city": "Lahore",
+  "contact": "0300-XXXXXXX",
+  "delivery": {
+    "areas": {
+      "Faisalabad": 250,
+      "Islamabad": 300,
+      "Karachi": 400,
+      "Lahore": 150,
+      "Rawalpindi": 300
+    },
+    "free_above_pkr": 3000,
+    "time": "Same day in Lahore, 1 to 2 days in other cities"
+  },
+  "note": "DEMO DATA ONLY. All prices below are demo prices in PKR, made up for learning and testing. They are not real shop prices. Replace this whole file with your own shop's real data before using the kit for a real shop.",
+  "payment_methods": [
+    "Cash on Delivery (COD)",
+    "JazzCash"
+  ],
+  "products": [
+    {
+      "category": "Bakery",
+      "description": "Fresh chocolate cake, 1 kg.",
+      "id": 1,
+      "in_stock": true,
+      "name": "Chocolate Cake",
+      "price": 1200
+    },
+    {
+      "category": "Bakery",
+      "description": "A box of 12 butter cookies.",
+      "id": 2,
+      "in_stock": true,
+      "name": "Butter Cookies",
+      "price": 450
+    },
+    {
+      "category": "Bakery",
+      "description": "Pack of 6 vanilla cupcakes with frosting.",
+      "id": 3,
+      "in_stock": true,
+      "name": "Cupcakes",
+      "price": 900
+    },
+    {
+      "category": "Bakery",
+      "description": "Homemade mango jam, 500 g jar.",
+      "id": 4,
+      "in_stock": false,
+      "name": "Mango Jam",
+      "price": 750
+    },
+    {
+      "category": "Bakery",
+      "description": "Fresh brown bread loaf.",
+      "id": 5,
+      "in_stock": true,
+      "name": "Brown Bread",
+      "price": 300
+    },
+    {
+      "category": "Bakery",
+      "description": "Pack of 4 fudge brownies.",
+      "id": 6,
+      "in_stock": true,
+      "name": "Chocolate Brownies",
+      "price": 600
+    },
+    {
+      "category": "Bakery",
+      "description": "Rich fruit cake, 1 kg.",
+      "id": 7,
+      "in_stock": true,
+      "name": "Fruit Cake",
+      "price": 1500
+    },
+    {
+      "category": "Bakery",
+      "description": "Pack of plain tea biscuits.",
+      "id": 8,
+      "in_stock": true,
+      "name": "Plain Biscuits",
+      "price": 250
+    }
+  ],
+  "shop_name": "Sweet Crumb Bakery",
+  "timings": {
+    "close": "10:00 PM",
+    "days": "Monday to Sunday",
+    "friday_break": "1:00 PM to 2:30 PM",
+    "open": "9:00 AM"
+  }
+}
